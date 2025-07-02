@@ -63,3 +63,12 @@ youtube-mp3-downloader/
 ├── README.md
 
 └── audios/
+
+---
+
+## 🤝 Autor / Author
+
+**Geovane**
+
+📧 [meugit.geovane.hub@gmail.com]  
+💼 [Linkedin: https://www.linkedin.com/in/geovane-vitor-b7540716b]
